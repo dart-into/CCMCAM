@@ -9,7 +9,7 @@ Mutiscale.py contains the network architecture code. It defines the model struct
 loop.py is used to repeatedly execute main.py multiple times to average the test results, ensuring more reliable performance metrics.
 ### Mydataset.py
 Mydataset.py inherits from the dataset class and is responsible for loading and processing the dataset used in the classification task.
-## package
+## Package
 ### The required libraries are as follows (some of which may not be useful, for reference only):
 ### Package   Version
 ### einops==0.8.0
